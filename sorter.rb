@@ -1,5 +1,10 @@
-# = a library to play with sorting algorithms
+# = a Ruby library to play with sorting algorithms
+#
 # Copyright 2008 by zunda <zunda at freeshell.org>
+#
+# This file provides various ways of sorting as described in
+# Niklaus Wirth, `Algorithms + Data Structures = Programs',
+# 1979, published by Prentice Hall, ISBN 0130224189.
 #
 # This program is free software: you can redistribute it and/or
 # modify it under the terms of the GNU General Public License as

@@ -1,4 +1,14 @@
 #!/usr/bin/ruby
+#
+# A sandbox to test partition sort
+#
+# Copyright 2008 by zunda <zunda at freeshell.org>
+#
+# Permission is granted for use, copying, modification,
+# distribution, and distribution of modified versions of this
+# work as long as the above copyright notice is included.
+#
+
 require 'sorter'
 
 class String
